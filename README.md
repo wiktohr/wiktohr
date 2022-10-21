@@ -1,5 +1,5 @@
 Welcome folks :penguin:
-- 👀 I’m interested in Game development :space_invader: :video_game:
+- 👀 I’m interested in Game Development :space_invader: :video_game:
 - 🌱 I’m currently learning C#, Python, SQL.
 - 📫 How to reach me wiktohr99@gmail.com
 
