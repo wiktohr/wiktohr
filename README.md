@@ -1,6 +1,7 @@
 Welcome folks :penguin:
-- 👀 I’m interested in Game Development :space_invader: :video_game:
-- 🌱 I’m currently learning C#, Python, SQL.
+- 🤖 I'm a PLC programmer with 4 years of industry experience.
+- 👀 I’m interested in Machine Learing, Software Engineering and Digital Twin.
+- 🌱 I’m currently learning C#, Python, NVIDIA Omniverse, Siemens Tecnomatix and InfluxDB.
 - 📫 How to reach me wiktohr99@gmail.com
 
 <!---
